@@ -8,8 +8,7 @@
         <li class="nav-item">
           <router-link class="nav-link" to="/calculator">Calculator</router-link>
         </li>
-      </ul>
-      
+      </ul>      
     </nav>
     <img alt="Vue logo" src="./assets/logo.png">
     <router-view />
